@@ -21,3 +21,7 @@ This project is an interactive Power BI dashboard that analyzes global COVID-19 
 
 ## 👩‍💻 Author
 Veenashree G
+
+## 📷 Dashboard Preview
+
+![COVID-19 Dashboard](Screenshot%202026-07-06%20164750.png)
